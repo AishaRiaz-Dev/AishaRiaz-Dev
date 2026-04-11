@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aisha 👋
+### Software Engineering Student @ SS-CASE-IT
+
+- 🚀 **Current Focus:** Advanced Object-Oriented Programming (C++) and Relational Database Management (SQL).
+- 🛠️ **Skills:** C++, SQL, Database Design (ERDs), Logic Building.
+- 🌟 **Leadership:** Founder of SmartLearn Coaching Center — Dedicated to STEM education.
+- 📫 **Connect with me:**
+
+---
+*“I believe in building efficient logic and clean code to solve real-world problems.”*
 
 <!--
 **AishaRiaz-Dev/AishaRiaz-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,6 +5,7 @@
 - 🛠️ **Skills:** C++, SQL, Database Design (ERDs), Logic Building.
 - 🌟 **Leadership:** Founder of SmartLearn Coaching Center — Dedicated to STEM education.
 - 📫 **Connect with me:**
+- https://www.linkedin.com/in/aisha-riaz-218016368
 
 ---
 *“I believe in building efficient logic and clean code to solve real-world problems.”*

@@ -1,5 +1,5 @@
 # Hi, I'm Aisha 👋
-###Sophomore Software Engineering Student @ SS-CASE-IT | Aspiring Open Source Contributor | C++ & SQL | Currently exploring Linux Foundation projects
+Sophomore Software Engineering Student @ SS-CASE-IT | Aspiring Open Source Contributor | C++ & SQL | Currently exploring Linux Foundation projects
 
 - 🚀 **Current Focus:** Advanced Object-Oriented Programming (C++) and Relational Database Management (SQL).
 - 🛠️ **Skills:** C++, SQL, Database Design (ERDs), Logic Building.

@@ -1,26 +1,42 @@
-# Hi, I'm Aisha 👋
-Sophomore Software Engineering Student @ SS-CASE-IT | Aspiring Open Source Contributor | C++ & SQL | Currently exploring Linux Foundation projects
+# Hi, I'm Aisha! 👋
 
-- 🚀 **Current Focus:** Advanced Object-Oriented Programming (C++) and Relational Database Management (SQL).
-- 🛠️ **Skills:** C++, SQL, Database Design (ERDs), Logic Building.
-- 🌟 **Leadership:** Founder of SmartLearn Coaching Center — Dedicated to STEM education.
-- 📫 **Connect with me:**
-- https://www.linkedin.com/in/aisha-riaz-218016368
+Sophomore Software Engineering Student @ **SS-CASE-IT** | Aspiring Open Source Contributor | Founder of **SmartLearn**
 
 ---
-*“I believe in building efficient logic and clean code to solve real-world problems.”*
 
-<!--
-**AishaRiaz-Dev/AishaRiaz-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages and Tools
 
-Here are some ideas to get you started:
+### Programming & Databases
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Environments
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Current Focus & Engineering Sprints
+
+- 🎯 **Advanced Systems & Logic:** Mastering Advanced Object-Oriented Programming principles ($C++$) and complex Relational Database Management Layouts ($SQL$).
+- 🧪 **Active Sprints:** Pushing through an intensive coding challenge to build out backend scripts, REST API integrations, and developer tooling.
+- 🌐 **Open Source Journey:** Exploring ecosystem architecture and actively preparing contributions for Linux Foundation and Cloud Native Computing Foundation (CNCF) systems.
+
+---
+
+## 🌟 Leadership & Community
+
+- 🏫 **Founder & Lead Instructor at SmartLearn:** Spearheading a dedicated coaching center for STEM education, breaking down intricate Mathematics and Physics logic for incoming students. 
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisha-riaz-218016368)
+
+---
+
+*"I believe in building efficient logic and clean code to solve real-world problems."*

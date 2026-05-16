@@ -1,5 +1,15 @@
-# Hi, I'm Aisha! 👋
- <img src="https://github.com/blackcatchannel/blackcatchannel/blob/main/images/cat-waving.gif?raw=true" width="35px">
+<table border="0">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="120px" alt="GitHub Octocat">
+    </td>
+    <td width="75%" valign="top">
+      <h1>Hi, I'm Aisha! 👋</h1>
+      <p>Sophomore Software Engineering Student @ <b>SS-CASE-IT</b> | Aspiring Open Source Contributor | Founder of <b>SmartLearn</b></p>
+    </td>
+  </tr>
+</table>
+
 
 Sophomore Software Engineering Student @ **SS-CASE-IT** | Aspiring Open Source Contributor | Founder of **SmartLearn**
 

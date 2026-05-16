@@ -1,4 +1,5 @@
 # Hi, I'm Aisha! 👋
+ <img src="https://github.com/blackcatchannel/blackcatchannel/blob/main/images/cat-waving.gif?raw=true" width="35px">
 
 Sophomore Software Engineering Student @ **SS-CASE-IT** | Aspiring Open Source Contributor | Founder of **SmartLearn**
 

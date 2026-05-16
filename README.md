@@ -11,7 +11,6 @@
 </table>
 
 
-Sophomore Software Engineering Student @ **SS-CASE-IT** | Aspiring Open Source Contributor | Founder of **SmartLearn**
 
 ---
 

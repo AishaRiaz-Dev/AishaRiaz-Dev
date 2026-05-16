@@ -48,5 +48,4 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisha-riaz-218016368)
 
 ---
-
 *"I believe in building efficient logic and clean code to solve real-world problems."*

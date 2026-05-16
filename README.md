@@ -48,8 +48,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisha-riaz-218016368)
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaRiaz-Dev&theme=tokyonight" alt="Aisha's GitHub Streak" />
-</p>
 
 *"I believe in building efficient logic and clean code to solve real-world problems."*

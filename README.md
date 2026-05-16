@@ -18,17 +18,6 @@ Sophomore Software Engineering Student @ **SS-CASE-IT** | Aspiring Open Source C
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
----
-
-## 🧰 Featured Production & Engineering Artifacts
-
-### 🗄️ [Relational Databases & Advanced SQL](https://github.com/AishaRiaz-Dev/OOP-Advanced-CPP) * **Core Focus:** Enterprise database schema modeling, strict normalization pipeline (1NF to 3NF/BCNF), and performance-tuned complex analytical queries.
-* **Key Tech:** SQL, MySQL Workbench, Custom Relational Schema Design.
-
-### 💻 [Object-Oriented Programming & Advanced C++](https://github.com/AishaRiaz-Dev/OOP-Advanced-CPP)
-* **Core Focus:** Modular system architecture implementing production-level OOP pillars (Dynamic Polymorphism, Encapsulation, Interface Abstraction).
-* **Key Tech:** C++17, GCC Compiler, Modular Class Structures.
-
 
 ## 🚀 Current Focus & Engineering Sprints
 

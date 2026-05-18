@@ -47,7 +47,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisha-riaz-218016368)
 
-<a href="mailto:aishariaz.dev@gmail.com"><img src="https://img.shields.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishariaz.dev@gmail.com)
 
 ---
 *"I believe in building efficient logic and clean code to solve real-world problems."*
